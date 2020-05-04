@@ -674,8 +674,7 @@
   }
 
   .photos .col-xl-12 ul li a {
-    color: #fa574d;
-    font-size: 12px;
+    font-size: 14px;
   }
 
   .teg .col-xl-10 p {
@@ -707,5 +706,15 @@
   .parent_form img {
     left: 20%;
   }
+  
+  header .mouse {
+    top: 385px;
+    left: 250px;
+    display: none;
+}
+
+.entertain{
+  display: none;
+}
 
 }
